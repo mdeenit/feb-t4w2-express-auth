@@ -1,2 +1,12 @@
 # feb-t4w2-express-auth
-mongooseJS and expressnode
+
+ExpressJs auth with MongooseJS. 
+
+- User model 
+    - username
+    - password 
+    - Roles by ID 
+- Role model 
+    - name 
+
+## Routes 
